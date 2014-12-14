@@ -1,0 +1,695 @@
+    1  sudo apt-get install ubuntu-restricted-extras
+    2  sudo apt-add-repository ppa:pipelight/stable
+    3  sudo apt-get update
+    4  sudo apt-get install pipelight-multi
+    5  sudo pipelight-plugin --enable silverlight
+    6  udo pipelight-plugin --enable widevine
+    7  y
+    8  sudo pipelight-plugin --enable silverlight
+    9  sudo pipelight-plugin --enable widevine
+   10  sudo pipelight-plugin --enable silverlight
+   11  sudo apt-add-repository ppa:pipelight/stable
+   12  sudo apt-get install pipelight-multi
+   13  sudo pipelight-plugin --enable silverlight
+   14  sudo pipelight-plugin --enable widevine
+   15  sudo apt-get update
+   16  sudo apt-get install curl
+   17  \curl -L https://get.rvm.io | bash -s stable
+   18  source ~/.rvm/scripts/rvm
+   19  \curl -L https://get.rvm.io | bash -s stable
+   20  source /home/marek/.rvm/scripts/rvm`
+   21  source /home/marek/.rvm/scripts/rvm
+   22  source /home/marek/.rvm/scripts/rvm`
+   23  source /home/marek/.rvm/scripts/rvm
+   24  source home/marek/.rvm/scripts/rvm`
+   25  source home/marek/.rvm/scripts/rvm
+   26  source home/marek/.rvm/scripts/rvm`
+   27  source home/marek/.rvm/scripts/rvm
+   28  source /home/marek/.rvm/scripts/rvm
+   29  rvm requirements
+   30  rvm install ruby
+   31  rvm use ruby --default
+   32  rvm rubygems current
+   33  gem install rails
+   34  rails new app
+   35  sudo apt-get install ruby-railties-4.0
+   36  rails new test
+   37  rails new app123
+   38  ls
+   39  cd app123
+   40  rails g scaffold User email number id
+   41  clear
+   42  back
+   43  sudo apt-get update
+   44  sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+   45  udo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
+   46  sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
+   47  curl -L https://get.rvm.io | bash -s stable
+   48  source ~/.rvm/scripts/rvm
+   49  source home/marek/.rvm/scripts/rvm
+   50  ls
+   51  pwd
+   52  source ~home/marek/.rvm/scripts/rvm
+   53  source /home/marek/.rvm/scripts/rvm
+   54  source ~/home/marek/.rvm/scripts/rvm
+   55  source /home/marek/.rvm/scripts/rvm
+   56  echo "source /home/marek/.rvm/scripts/rvm" >> ~/.bashrc
+   57  echo "source ~/.rvm/scripts/rvm" >> ~/.bashrc
+   58  rvm install 2.1.3
+   59  rvm use 2.1.3 --default
+   60  ruby -v
+   61  echo "gem: --no-ri --no-rdoc" > ~/.gemrc
+   62  echo "gem: --no-ri --no-rdoc" > home/marek/.gemrc
+   63  echo "gem: --no-ri --no-rdoc" > /home/marek/.gemrc
+   64  git config --global color.ui true
+   65  git config --global user.name "polosik"
+   66  git config --global user.email "marek-kowalczyk2@wp.pl"
+   67  ssh-keygen -t rsa -C "marek-kowalczyk2@wp.pl
+   68  ssh-keygen -t rsa -C "marek-kowalczyk2@wp.pl"
+   69  cat ~/.ssh/id_rsa.pub
+   70  cat marek/home/.ssh/id_rsa.pub
+   71  cat /marek/home/.ssh/id_rsa.pub
+   72  cat ~/.ssh/id_rsa.pub
+   73  cat home/.ssh/id_rsa.pub
+   74  cat ~home/marek/.ssh/id_rsa.pub
+   75  rails -v
+   76  rails new sdadas
+   77  sudo rails new
+   78  sudo rails new appka
+   79  sudo apt-get update
+   80  sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+   81  sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
+   82  udo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
+   83  curl -L https://get.rvm.io | bash -s stable
+   84  source ~/.rvm/scripts/rvm
+   85  echo "source ~/.rvm/scripts/rvm" >> ~/.bashrc
+   86  rvm install 2.1.3
+   87  rvm use 2.1.3 --default
+   88  git config --global color.ui true
+   89  git config --global user.name "YOUR NAME"
+   90  git config --global user.name "polosik"
+   91  sudo git config --global user.name "polosik"
+   92  git config --global color.ui true
+   93  git config --global user.name "YOUR NAME"
+   94  git config --global user.email "YOUR@EMAIL.com"
+   95  ssh-keygen -t rsa -C "YOUR@EMAIL.com"
+   96  git config --global color.ui true
+   97  git config --global user.name "polosik
+   98  git config --global user.email "marek-kowalczyk2@wp.pl"
+   99  ssh-keygen -t rsa -C "marek-kowalczyk2@wp.pl
+  100  git config --global user.name "polosik
+  101  git config --global user.email "marek-kowalczyk2@wp.pl"
+  102  ssh-keygen -t rsa -C "marek-kowalczyk2@wp.pl
+  103  git config --global color.ui true
+  104  git config --global user.name "polosik"
+  105  git config --global user.email "marek-kowalczyk2@wp.pl"
+  106  cat ~/.ssh/id_rsa.pub
+  107  cat home/marek/.ssh/id_rsa.pub
+  108  cat /home/marek/.ssh/id_rsa.pub
+  109  cat /home/marek/.ssh/id_rsa
+  110  cat ~/.ssh/id_rsa.pub
+  111  ssh -T git@github.com
+  112  xxxz
+  113  ssh -T git@github.com
+  114  cat ~/.ssh/id_rsa.pub
+  115  cat home/marco/.ssh/id_rsa.pub
+  116  cat home/marek/.ssh/id_rsa.pub
+  117  cat home/marek/.ssh/haslo.pub
+  118  cat /home/marek/.ssh/haslo.pub
+  119  apt-get to instalator Ubuntu
+  120  sudo apt-getn update
+  121  rails new apppppp
+  122  sudo rails new apppp
+  123  git config --global color.ui true
+  124  git config --global user.name "polosik"
+  125  git config --global user.email "marek-kowalczyk2@wp.pl"
+  126  ssh-keygen -t rsa -C "marek-kowalczyk2@wp.pl"
+  127  cat ~/.ssh/id_rsa.pub
+  128  cat ~/.ssh/haslo2.pub
+  129  cat home/marek/.ssh/haslo2.pub
+  130  ssh -T git@github.com
+  131  sudo cat home/marek/.ssh/haslo2.pub
+  132  sudo cat home/marek/.ssh/haslo2
+  133  cat home/marek/.ssh/haslo2
+  134  cat home/marek//haslo2
+  135  cat home/marek/haslo2
+  136  cat home/marek/haslo2.pub
+  137  cat /home/marek/haslo2.pub
+  138  git config --global color.ui true
+  139  git config --global user.name "polosik"
+  140  git config --global user.email "marek-kowalczyk2@wp.pl"
+  141  ssh-keygen -t rsa -C "marek-kowalczyk2@wp.pl"
+  142  cat home/marek/haslo3.pub
+  143  cat /home/marek/haslo3.pub
+  144  ssh -T git@github.com
+  145  eval "$(ssh-agent -s)"
+  146  ssh-add -l
+  147  sudo passwd root
+  148  ssh -T git@github.com
+  149  sudo ssh -T git@github.com
+  150  git config --global color.ui true
+  151  git config --global user.name "polosik"
+  152  sudo git config --global color.ui true
+  153  sudo git config --global user.name "polosik"
+  154  sudo git config --global user.email "marek-kowalczyk2@wp.pl"
+  155  sudo ssh-keygen -t rsa -C "marek-kowalczyk2@wp.pl"
+  156  cat marek/home/id_rsa.pub
+  157  cat /home/marek/haslo4.pub
+  158  ssh -T git@github.com
+  159  ssh -vT git@github.com
+  160  eval "$(ssh-agent -s)"
+  161  ssh-add -l
+  162  sudo
+  163  sudo apt-get update
+  164  sudo
+  165  curl -L https://get.rvm.io | bask -s stable
+  166  curl -L https://get.rvm.io | bash -s stable
+  167  -source /home/marek/.rvm/scripts/rvm
+  168  - source /home/marek/.rvm/scripts/rvm
+  169  source /home/marek/.rvm/scripts/rvm
+  170  lp
+  171  ld
+  172  ld home
+  173  ld /home
+  174  lp /home
+  175  ls
+  176  rvm install ruby
+  177  rvm use ruby -default
+  178  rvm use ruby
+  179  rvm rubygems current
+  180  gem install rails
+  181  sudo add-apt-repository ppa:webupd8team/java
+  182  sudo apt-get update
+  183  sudo apt-get install oracle-jdk7-installer
+  184  sudo ln -s $path_to_installation/bin/rubymine.sh/usr/local/bin/mine
+  185  rails new appppp
+  186  rails new test_alfa
+  187  rails new omg
+  188  rails new apppp
+  189  sudo rails new apppp
+  190  sudo apt-get update
+  191  sudo rails new apppp
+  192  rails new omg
+  193  sudo apt-get install curl
+  194  curl -L https://get.rvm.io | bash -s stable
+  195  source /home/marek/.rvm/scripts/rvm
+  196  source ~/.rvm/scripts/rvm
+  197  rvm install ruby
+  198  rvm use ruby -default
+  199  rvm rubies
+  200  rvm list
+  201  rvm use ruby --default
+  202  rvm rubygems current
+  203  gem install rails
+  204  sudo add-apt-repository ppa:webupd8team/java
+  205  sudo apt-get update
+  206  sudo apt-get install oracle-jdk7-installer
+  207  sudo ln -s $path_to_installation/bin/rubymine.sh/usr/local/bin/mine
+  208  sudo ln -s $/home/marek/bin/rubymine.sh/usr/local/bin/mine
+  209  sudo ln -s $home/marek/bin/rubymine.sh/usr/local/bin/mine
+  210  rails new dsdasd
+  211  cd dsdasd
+  212  rails g scaffold Ticket name seat _id_seq destination price:decimal
+  213  rails new rail
+  214  cd rail
+  215  railsg scaffold Ticket name seat _id_seq destination price:decimal
+  216  rails scaffold Ticket name seat _id_seq destination price:decimal
+  217  rails g scaffold Ticket name seat _id_seq destination price:decimal
+  218  rails list
+  219  list rails
+  220  rvm gemset empty
+  221  bundle install
+  222  rvm use ruby --default
+  223  rails g scaffold Ticket name seat _id_seq destination price:decimal
+  224  rails new marek
+  225  cd marek
+  226  rails g scaffold Tickett name seat _id_seq destination price:decimal
+  227  vm list
+  228  rvm list
+  229  rvm list rubies
+  230  rvm list
+  231  rvm use 2.1.3
+  232  s
+  233  rvm use 2.1.3 --default
+  234  rails new ogm
+  235  rvm gemset empty
+  236  bundle install
+  237  rails new omgggg
+  238  rails new appppp
+  239  sudo rails new appp
+  240  rvm remove
+  241  rvm list
+  242  ruby 2.1.5 --default
+  243  ruby-2.1.5 --default
+  244  sudo apt-get update
+  245  sudo apt-get update && sudo apt-get upgrade
+  246  sudo apt-get install curl
+  247  \curl -L https://get.rvm.io | bash -s stable
+  248  source ~/.rvm/scripts/rvm
+  249  rvm requirements
+  250  rvm install ruby
+  251  rvm use ruby --default
+  252  rvm rubygems current
+  253  gem install rails
+  254  gem list
+  255  sudo apt-get install nodejs
+  256  rails new apppp
+  257  rails new marekkkkk
+  258  cd marekkkkk
+  259  rails g scaffold Ticket name seat _id_seq destination price:decimal
+  260  rake db:migrate
+  261  rails s
+  262  rails new apka
+  263  cd apka
+  264  rails g scaffold Bilet name seat _id_seq destination price:decimal 
+  265  rake db:migrate
+  266  rails s
+  267  rails new tescik
+  268  rails new apkanowka
+  269  exit
+  270  rails new zad1
+  271  cd zad1
+  272  rails g scaffold Ad name description:text price:decimal
+  273  rake db:migrate
+  274  rails s
+  275  Ad.create(name: "Ogłoszenie ogłoszenie",description: "Moje ogłoszenie")
+  276  rails c
+  277  rails s
+  278  rails g migration addAttributtesToAd email:string img_url:string
+  279  rake db:migrate
+  280  rails s
+  281  bundle
+  282  rails s
+  283  rake db:seed
+  284  rails s
+  285  cd
+  286  rails new zad2
+  287  cd zad2
+  288  rails g scaffold Book title isbn author_id:integer
+  289  rake db:migrate
+  290  bundle
+  291  rails s
+  292  rails c
+  293  rails s
+  294  bundle
+  295  rake db:migrate
+  296  rails s
+  297  bundle
+  298  rake db:seed
+  299  rails g scaffold Author name surname'
+  300  rake db:seed
+  301  rake db:migrate
+  302  rails s
+  303  rails c
+  304  rake db:migrate
+  305  rake db:seed
+  306  bundle
+  307  rake db:migrate
+  308  rake db:seed
+  309  rake db:migrate
+  310  rake db:seed
+  311  rails c
+  312  rails s
+  313  rails g model Employee name surname city organization_id:integer
+  314  rails g model Organization name income headquarters
+  315  rake db:migrate
+  316  rake db:seed
+  317  cd  
+  318  rails new zad3
+  319  cd zad3
+  320  rails g model Person name surname date_of_birth:date
+  321  rails g model Book title description:text isbn author_id:integer
+  322  rake db:migrate
+  323  rake db:seed
+  324  rails c
+  325  cd
+  326  cd pulpit
+  327  ls 
+  328  pulpit
+  329  Pulpit
+  330  ls 
+  331  Cd
+  332  cd Pulpit
+  333  35.rub
+  334  3.rb
+  335  ruby 3.rb
+  336  cd
+  337  rails new zad4
+  338  cd zad4
+  339  ls
+  340  rails g scaffold Location address latitude:float longitude:float
+  341  rake db:migrate
+  342  bundle
+  343  rails s
+  344  cd ..
+  345  ls
+  346  rails new zad5
+  347  cd zad5
+  348  rails g model User name surname email role confirmable:boolean
+  349  rake db:migrate
+  350  rails c
+  351  s
+  352  ails c
+  353  rails ccreate(namem", surname: "Kowalski")
+  354  rrors
+  355  quit
+  356  cd zad5
+  357  rails c
+  358  cd ...
+  359  cd ..
+  360  ls
+  361  rails new zad6
+  362  rails g model Product name description:text
+  363  ls
+  364  cd zad6
+  365  rails g model Product name description:text
+  366  rake db:migrate
+  367  bundle
+  368  rake db:seed
+  369  rails c
+  370  rails s
+  371  rake routes
+  372  rails s
+  373  rake routes
+  374  rails s
+  375  rails g controller products
+  376  rails s
+  377  rake routs
+  378  rake routes
+  379  rails s
+  380  rake routes
+  381  rails s
+  382  Product.create(name: "Pralka", description: "Super")
+  383  rails s
+  384  Product.create(name: "Pralka", description: "Super")
+  385  product.create(name: "Pralka", description: "Super")
+  386  Product.create(name: "Pralka", description: "Super")
+  387  product.last
+  388  Product.last
+  389  rails c
+  390  rails s
+  391  rails g model Person name surname
+  392  rake db:migrate
+  393  rails g controller people new add
+  394  rake routes
+  395  rails s
+  396  Person.last
+  397  rails c
+  398  rails g model Tweet name status
+  399  rails db:migrate
+  400  rake db:migrate
+  401  rails g controller tweets status
+  402  rake db:seed
+  403  rails s
+  404  rails c
+  405  cd ..
+  406  ls
+  407  rails new zad7
+  408  rails g scaffold Person name surname
+  409  ls
+  410  cd zad7
+  411  rails g scaffold Person name surname
+  412  rake routes
+  413  rake db:migrate
+  414  bundle
+  415  rake db:seed
+  416  rails s
+  417  rails g scaffold Post title text
+  418  rake db:migrate
+  419  bundle
+  420  rails generate devise:install
+  421  rails g devise User
+  422  rake db:migrate
+  423  rails s
+  424  rake routes
+  425  rails s
+  426  sudo apt-get install imagemagick
+  427  rails g scaffold Product name description
+  428  rake db:migrate
+  429  bundle
+  430  rails g paperclip product image
+  431  rake db:migrate
+  432  rails s
+  433  cd ..
+  434  rails new zadanie1
+  435  ls
+  436  cd zadanie1
+  437  rails g controller Users name
+  438  rails s
+  439  rails new domowa
+  440  cd ...
+  441  cd ..
+  442  ls
+  443  cd ...
+  444  cd ..
+  445  domowa
+  446  ls domowa
+  447  cd domowa
+  448  home
+  449  cd home
+  450  cd domowa
+  451  rails g scaffold Advertisement description title photo
+  452  rake db:migrate
+  453  user count
+  454  rails c
+  455  rails s
+  456  rails c
+  457  bandle
+  458  bandle install
+  459  bundle
+  460  rails s
+  461  rake db:migrate
+  462  rails c
+  463  rails s
+  464  rails new test4
+  465  cd test4
+  466  rails g scaffold User name surname city
+  467  rails s
+  468  rake db:migrate
+  469  rails s
+  470  cd //
+  471  cd..
+  472  cd domowa
+  473  ..
+  474  cd /domowa
+  475  cd domowa
+  476  rails s
+  477  cd ..
+  478  rails new domowa2
+  479  cd domowa2
+  480  rails g scaffold Adver description title photo
+  481  rake db:migrate
+  482  rails s
+  483  rails g scaffold User username email password
+  484  rake db:migrate
+  485  rails s
+  486  rake db:migrate
+  487  rails s
+  488  rails c
+  489  rails s
+  490  rails c
+  491  rake db:seed
+  492  as
+  493  sda
+  494  rails c
+  495  cd domowa2
+  496  rails db:seed
+  497  rails db:migrate
+  498  rails s
+  499  rails db:migrate
+  500  bundle
+  501  rake db:migrate
+  502  rake db:seed
+  503  user.count
+  504  rarils c
+  505  rails c
+  506  rails s
+  507  rails c
+  508  dsad
+  509  mkdir weekend2
+  510  ls
+  511  cd weekend2
+  512  rails new zad1
+  513  cd zad1
+  514  rails g model Patient name surname
+  515  rake db:migrate
+  516  rails g controller patients show new create
+  517  rails s
+  518  cd ..
+  519  rails new zad2
+  520  rails g scaffold Employee name surname salary:decimal commision:decimal
+  521  cd zad2
+  522  rails g scaffold Employee name surname salary:decimal commision:decimal
+  523  rake db:migrate
+  524  subl .
+  525  bundle
+  526  rake db:seed
+  527  rails c
+  528  rails s
+  529  rake db:migrate
+  530  rail s
+  531  rails s
+  532  rake routes
+  533  rails s
+  534  rake routes
+  535  rails s
+  536  cd ..
+  537  rails new zad6
+  538  cd zad6
+  539  rails g scaffold Survey name
+  540  rake db:migrate
+  541  rails g model Question survey:references content:text
+  542  rails g model Answer question:references content:text
+  543  rake db:migrate
+  544  rails s
+  545  cd..
+  546  cd ..
+  547  sudo apt-get install git
+  548  git config --global user.name "Marek Kowalczyk"
+  549  git config --global user.email "marek-kowalczyk2@wp.pl"
+  550  git config --global color.ui true
+  551  git config user.name
+  552  rails new test_app
+  553  cd test_app
+  554  git init.
+  555  git init .
+  556  cd ..
+  557  git config --global user.email marek-kowalczyk2@wp.pl
+  558  cd test_app
+  559  git status
+  560  git add .
+  561  git status
+  562  git commit -m"Initial Commit"
+  563  git status
+  564  git log
+  565  git status
+  566  git add text.txt
+  567  git add /bin/text.txt
+  568  git status
+  569  git add bin/text.txt
+  570  git status
+  571  git commit -m "Second Commit"
+  572  git status
+  573  git remote -v
+  574  git checkout -b testbranch
+  575  git status
+  576  git checkout master
+  577  git branch
+  578  git branch -d testbranch
+  579  ssh-keygen -t rsa -C "marek-kowalczyk2@wp.pl"
+  580  sudo apt-get install xclip
+  581  xclip -sel clip < ~/.ssh/id_rsa.pub
+  582  cd ..
+  583  mkdir testgit
+  584  cd testgit
+  585  touch README.md
+  586  git status
+  587  git init
+  588  git status
+  589  git add .
+  590  git commit -am "Added Readme"
+  591  git status
+  592  git remote add origin git@github.com:polosik/test_repo.git
+  593  git remote -v
+  594  git pull origin master
+  595  git push origin master
+  596  rails new .
+  597  git add .
+  598  git commit -am "created app rails"
+  599  git push origin master
+  600  git status
+  601  git commit -am "Next time lock ur laptop"
+  602  git status
+  603  git commit -am "Dodalem email"
+  604  git status
+  605  sudo apt-get install gitk
+  606  gitk
+  607  git reset HEAD~1 --soft
+  608  gitk
+  609  git status
+  610  git reset HEAD config/routes.rb
+  611  git status
+  612  git checkout config/routes.rb
+  613  git status
+  614  cd weekend2
+  615  cd zad7
+  616  mkdir zad7
+  617  rails new zad7
+  618  cd zad7
+  619  rails g scaffold User username status confirmed:boolean
+  620  rake db:migrate
+  621  bundle
+  622  rake db:seed
+  623  rails c
+  624  rake routes
+  625  rails s
+  626  cd ..
+  627  rails new zad8
+  628  cd zad8
+  629  rails g scaffold Mem name description:text
+  630  rake db:migrate
+  631  bundle
+  632  rails g paperclip Mem image
+  633  rake db:migrate
+  634  rails s
+  635  cd ..
+  636  rails new home
+  637  git init .
+  638  git add .
+  639* 
+  640  git status
+  641  cd home
+  642  git init .
+  643  git add .
+  644  git status
+  645  git commit -am "Initial commit"
+  646  git status
+  647  bundle
+  648  rails generate bootstrap:install static
+  649  bundle
+  650  rails generate bootstrap:install static
+  651  rails g bootstrap:layout application
+  652  git add .
+  653  git commit -m "Added twitter bootstrap"
+  654  git status
+  655  rails g controller main index
+  656  rails s
+  657  git status
+  658  git add .
+  659  git status
+  660  git commit -m "New layout"
+  661  git status
+  662  git checkout -b admin_panel
+  663  git status
+  664  rails g scaffold Room name:string
+  665  rails g scaffold Category name
+  666  rails g scaffold RoomCategory room:references category:references
+  667  rails g scaffold Device name on:boolean
+  668  rails destroy scaffold Device
+  669  rails g scaffold Device name on:boolean type room_category:references
+  670  rake db:migrate
+  671  rails s
+  672  rails g bootstrap:themed Rooms
+  673  rails g bootstrap:themed Categories 
+  674  rails g bootstrap:themed RoomCategories
+  675  ails g bootstrap:themed Devices
+  676  rails g bootstrap:themed Devices 
+  677  rails s
+  678  rake db:migrate
+  679  git status
+  680  git add .
+  681  git commit -am "Added all required models"
+  682  git status
+  683  git merge master
+  684  git checkout mas
+  685  git checkout master
+  686  git merge admin_panel
+  687  git status
+  688  gitk
+  689  bundle
+  690  rails generate devise:install
+  691  rails g devise User
+  692  rake db:migrate
+  693  rails s
+  694  history 
+  695  history >> log.txt
